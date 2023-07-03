@@ -1,7 +1,7 @@
 # logo
 
 <img src="logo-round-white.png" alt="logo-round-white">
-```bash
+```html
 https://pazvanka.github.io/logo/logo-round-white.png
 https://pazvanka.github.io/logo/logo-round-white.svg
 ```
