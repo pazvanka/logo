@@ -6,10 +6,10 @@ https://pazvanka.github.io/logo/logo-round-white.png
 https://pazvanka.github.io/logo/logo-round-white.svg
 ```
 <img src="logo-round.png" alt="logo-round">
-```php
+'''php
 https://pazvanka.github.io/logo/logo-round.png
 https://pazvanka.github.io/logo/logo-rounde.svg
-```
+'''
 <img src="logo-text.png" alt="logo-text">
 ```php
 https://pazvanka.github.io/logo/logo-text.png
