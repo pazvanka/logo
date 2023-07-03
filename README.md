@@ -1,10 +1,10 @@
 # logo
 
 <img src="logo-round-white.png" alt="logo-round-white">
-```html
-https://pazvanka.github.io/logo/logo-round-white.png
-https://pazvanka.github.io/logo/logo-round-white.svg
-```
+
+- https://pazvanka.github.io/logo/logo-round-white.png
+- https://pazvanka.github.io/logo/logo-round-white.svg
+  
 <img src="logo-round.png" alt="logo-round">
 '''php
 https://pazvanka.github.io/logo/logo-round.png
